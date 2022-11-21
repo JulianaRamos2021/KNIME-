@@ -6,5 +6,19 @@ O KNIME, é uma plataforma livre e de código aberto de análise de dados, const
 
 
 
+
+
+Todas as etapas do projeto serão desenvolvidas no Knime conforme demonstrado abaixo
 ![image](https://user-images.githubusercontent.com/78691172/203067852-4035fc11-71ea-4c3c-bf15-70cacffaee72.png)
+
+
+
+# Extraindo dados
+Através do node "File Reader" busquei na pasta local o arquivo extraído do site https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes
+![image](https://user-images.githubusercontent.com/78691172/203071928-003a8a0a-153e-4cf6-98b0-9e0e0432d839.png)
+
+Esse arquivo possui os dados de acidentes automobilisticos ocorridos no período de 
+![image](https://user-images.githubusercontent.com/78691172/203073532-0e7a517f-3ead-4f71-a74a-f2d0bebb2771.png)
+
+
 
