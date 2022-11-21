@@ -41,7 +41,22 @@ Esse arquivo possui os dados de acidentes automobilisticos ocorridos no período
 ![image](https://user-images.githubusercontent.com/78691172/203180165-77b0894e-d6c9-4444-a3bc-e4e20a84f98a.png)
 
 
+
+# Transformando dados da base de dados "acidentes"
+
 ![image](https://user-images.githubusercontent.com/78691172/203180297-2cf388a1-19d8-4d04-bfaa-b0621cdf0089.png)
+
+
+
+![image](https://user-images.githubusercontent.com/78691172/203180939-d3cf1ac0-ec0d-41cb-9c57-c200b57581e3.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203180992-902169ba-5265-419c-bdf3-d148216a0e5e.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181076-efab8e78-a495-439a-87f3-98d10056515d.png)
+
+
 
 
 
