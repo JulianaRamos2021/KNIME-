@@ -58,6 +58,30 @@ Esse arquivo possui os dados de acidentes automobilisticos ocorridos no período
 
 
 
+# Transformando base de dados "Condição da via"
+
+![image](https://user-images.githubusercontent.com/78691172/203181386-39451f47-ea37-4652-990f-6d2b8f613fcb.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181430-1ee5223c-99b5-46eb-bd44-cabe94e87960.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181504-dffc2fa9-7c34-479c-8eca-f839d2d1cfe5.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181580-cb1bfdf7-877c-4f98-81a9-24dd7bdfcb94.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181642-3fb45a4e-16a3-474e-82e2-aa785a0374d2.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181686-10fcf87f-0981-4a4f-bd8f-959916b252db.png)
+
+
+![image](https://user-images.githubusercontent.com/78691172/203181738-55bf7497-60d8-4cd2-8496-baca75e78d0f.png)
+
+
+
 
 
 
